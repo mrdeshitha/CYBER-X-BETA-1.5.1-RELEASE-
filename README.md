@@ -1,8 +1,8 @@
-##                       CYBER-X TESTING WHATSAPP BOT
+##                       AMA EDITION
 
-<p align = center>   <img src="https://telegra.ph/file/71c859102f3625d06204b.jpg" alt="GIF" width="250" height="250"/> </p>
+<p align = center>   <img src="https://i.imgur.com/L7UKvo2.jpeg" alt="GIF" width="250" height="250"/> </p>
 
-<p align  = center> <a href="#"><img title="CYBER-X WHATSAPP BOT" src="https://img.shields.io/badge/CYBER-X WhatsApp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
+<p align  = center> <a href="#"><img title="QUEEN AMA - WHATSAPP BOT" src="https://img.shields.io/badge/QUEEN-AMA-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a> </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+Queen╺+AMA+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+DARK+ALPHA+𝚃𝙴𝙰M;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+P.MADURANGA🖤;𝐌𝐑:+MADUWA_H;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹)](https://git.io/typing-svg)
 
