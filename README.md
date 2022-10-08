@@ -13,7 +13,7 @@ https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#ind
 ```https://heroku.com/deploy?template=```
 ## Support Group 
 
-https://chat.whatsapp.com/EwyPMi8Hsm1JXiC77Ymcsf
+https://chat.whatsapp.com/C5rLhmiYCU0GSXNMECclKX~
 
 ## ```Connect With Me```
 <p align="center">
@@ -46,7 +46,7 @@ https://chat.whatsapp.com/EwyPMi8Hsm1JXiC77Ymcsf
 
 ## UPDATES
 
-```https://github.com/darkalphaxteam/CYBER-X-BETA-1.5.1-RELEASE-2022.08.22 - Published```
+```https://github.com/Botpasiya/CYBER-X-BETA-1.5.1-RELEASE- - Published```
 
 ```2022.08.25 - Tiktok , YT Shorts and Your Tag Error Fixed```
 
