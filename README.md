@@ -15,6 +15,17 @@ https://replit.com/@darkalphaxteam/CYBER-X-MD-SCANNER?output%20only=1&lite=1#ind
 
 https://chat.whatsapp.com/EwyPMi8Hsm1JXiC77Ymcsf
 
+## ```Connect With Me```
+<p align="center">
+<a href="https://wa.me/94701643862"><img src="https://www.svgrepo.com/show/122874/whatsapp.svg" width="100"/>
+</p>
+
+</details>
+
+<p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
+
 ## In some cases, the bot may stop working automatically as soon as the button issue is resolved. So, if it happens, turn the restart Bot. I will find a solution soon.
 ## බටන් ගැටලුව විසදීමත් සමගම සමහර අවස්තාවලදි බොට් ක්‍රියාකාරිත්වය ඉබේ නැවතිය හැකිය. එනිසා එසෙ වුවහොත් නැවත් බොට් On කරන්න .ඉක්මනින් පිලියමක් සොයා දෙන්නම්.
 
