@@ -1,5 +1,5 @@
 {
-  "name": "Cyber-X MD",
+  "name": "⏤ ͟͞   ⃝𝐐𝐔𝐄𝐄𝐍 𝐀𝐌𝐀 𝐄𝐃𝐈𝐓𝐈𝐎𝐍  ͟͞⏤",
   "version": "1.5.0",
   "description": "Autometic WhatsApp Bot",
   "main": "bot.js",
@@ -17,7 +17,7 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "darkalphaxteam",
+  "author": "AMA EDITION",
   "license": "MIT",
   "dependencies": {
     "@adiwajshing/baileys": "github:darkalphaxteam/baileys",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release.git"
+    "url": "https://github.com/Botpasiya/CYBER-X-BETA-1.5.1-RELEASE-.git"
   },
   "bugs": {
-    "url": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release/issues"
+    "url": "https://github.com/Botpasiya/CYBER-X-BETA-1.5.1-RELEASE-issues"
   },
-  "homepage": "https://github.com/darkalphaxteam/Cyber-X-Beta-Release#readme"
+  "homepage": "https://github.com/Botpasiya/CYBER-X-BETA-1.5.1-RELEASE-#readme"
 }
